@@ -4,8 +4,9 @@ project:
 
 book:
   title: "Fluid2"
-  author: "Jane Doe"
-  date: "١١‏/١١‏/٢٠٢٢"
+  author: "M. T. Khater and S. I. Hassan"
+
+  date: "11/11/2022"
   chapters:
     - index.qmd
     - intro.qmd
