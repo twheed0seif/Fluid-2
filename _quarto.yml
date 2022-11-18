@@ -11,6 +11,7 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - test\test.qmd
     - summary.qmd
     - references.qmd
 
@@ -22,5 +23,5 @@ format:
   pdf:
     documentclass: scrreprt
 
-editor: visual
+# editor: visual
 
